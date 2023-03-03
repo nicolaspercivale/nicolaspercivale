@@ -1,16 +1,19 @@
-### Hi there 👋
+### Buenas noches mundo!!! 👋☺♥☻
+**holaaaaaaaaaa**  ,espero estar haciendo bien todo esto del **MARKDOWN**
 
-<!--
-**nicolaspercivale/nicolaspercivale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ***Un poco de mi***...
 
-Here are some ideas to get you started:
+Tengo 30 años, vivo en Buenos Aires y actualmente trabajo en Philips Argentina en el sector de comercio exterior. Estudie en la Universidad comercio exterior donde me licencie y este es mi segundo trabajo. Estoy buscando cambiar de trabajo hacia otro tipo de desarrollo profesional y me parecio atractivo esto por las condiciones de contratacion y los salarios que ofrece esta actividad
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Que pondero a la hora de elegir este camino:**
++ Flexibilidad
++ Salario competitivo 
++ Rapido acceso al mercado laboral en una u otra compañia
+
+
+## ***Mi vida*** 
+Tengo dos hermanos. Uno esta en este bootscamp tambien☼
+Nombre | Edad | ocupacion 
+-------| -----|-------- 
+Matias |21|Estudiante|
+Cristian|38|Lic. en economia|
