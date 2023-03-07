@@ -17,3 +17,26 @@ Nombre | Edad | ocupacion
 -------| -----|-------- 
 Matias |21|Estudiante|
 Cristian|38|Lic. en economia|
+
+
+
+### Contenidos de clase:
+
+En esta primer clase aprendimos varios comandos los cuales **listare a continuacion:**
+
+Comando | funcion 
+--------|---------
+PWD   |En donde me encuentro 
+CD    |Navegar entre directorios
+MKDIR |Crear carpeta
+LS    |Listar archivos
+WHOAMI|Usuario actual 
+
+
+## ALIAS
+
+Los **ALIAS** que usare a lo largo son : 
+
+ALIAS | FUNCION | ORIGINAL
+------|---------|-----------
+CL    |Borrar   | CLEAR 
